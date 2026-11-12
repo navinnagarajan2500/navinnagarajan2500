@@ -1,29 +1,47 @@
-# Navin Nagarajan
+# Navin N
 
-**IAM Specialist** · Identity & Access Management
+**QA Engineer → Product Manager.** I test a live B2B SaaS product at The Stackly, and the rest of my time goes into the work a PM actually does: discovery, PRDs, user stories, prioritisation and metrics — plus AI-first product builds.
 
-I work on the identity side of IT — role-based access control, access certifications, joiner–mover–leaver automation, SSO/MFA, and privileged access. I automate the repetitive parts with PowerShell and Python.
+- Currently: **Automation Test Engineer @ The Stackly** (Mar 2026 – present), an HR-tech SaaS product
+- Training: **Airtribe AI-First Product Management Program** (Jul–Oct 2026)
+- Looking for: **Associate Product Manager / Product Analyst / Business Analyst** roles in India
+- Based in Perambalur, Tamil Nadu · 30-day notice period
 
 ---
 
-### What I work with
+## Why me for product
 
-| Area | Tools |
+- I sit inside the delivery loop: I write and execute test cases against user stories and acceptance criteria, review PRDs and Figma designs, test APIs in Swagger, and run UAT.
+- I turn QA findings into product input — usability gaps, input-validation issues and cold-start latency raised as user-impact items so the team can prioritise what matters.
+- I have shipped the artefacts a PM gets hired for: product case studies, a full product and system design brief, an AI support-ops brief, and a working AI product concept.
+
+## Product work (Airtribe)
+
+| Project | What it is |
 | --- | --- |
-| **Identity governance** | SailPoint, ForgeRock, Ping Identity |
-| **SSO / MFA** | Okta, SAML, OAuth 2.0, OpenID Connect |
-| **Privileged access** | CyberArk, BeyondTrust |
-| **Directories** | Active Directory, Entra ID, LDAP |
-| **Cloud IAM** | AWS IAM, Azure IAM, Google Workspace |
-| **Automation & ITSM** | PowerShell, Python, ServiceNow, Jira |
-| **Monitoring & audit** | Splunk, ELK, QRadar |
+| **Airbnb India case study** | Problem framing, user evidence, a recommendation, and success metrics with a measurement plan. Scored **4.1/5** and selected as a **top submission**. |
+| **QuickBite — product & system design brief** | End-to-end brief covering problem framing, prioritisation, UX, analytics and launch planning, with a pitch deck and video walkthrough. |
+| **AI Support Ops Assistant** | AI support-operations product concept built in the Vibe Coding for PMs module. |
+| **Crumb & Craft** | Agentic AI project: product flows and UX for an AI-native bakery experience. |
 
-### Projects
+> These are training projects from Airtribe's Product Management Program, not professional product launches.
 
-- **[open-instinct](https://github.com/navinnagarajan2500/open-instinct)** — a self-hosted personal iMessage assistant that can drive a real browser to book and buy things for you. Next.js + TypeScript, deployed on Vercel with Neon and Kernel. Based on the MIT-licensed [OpenInstinct](https://github.com/Merit-Systems/OpenInstinct).
-- **[alfardan-website](https://github.com/navinnagarajan2500/alfardan-website)** — single-page site for Al Fardan Electromechanical (Dubai): HVAC, plumbing, electrical and property maintenance. Hand-written HTML/CSS.
+## Skills
 
-### Reach me
+**Product:** user research · user stories · acceptance criteria · PRDs · product roadmap · backlog management · prioritisation · product metrics & KPIs · competitive analysis · wireframing · go-to-market support
 
+**Quality & delivery:** test case design · functional & regression testing · API testing (Swagger) · UI validation against Figma · defect severity & prioritisation · Agile/Scrum
+
+**Tools:** Figma · Swagger · Excel · Word
+
+## Repositories
+
+- **[alfardan-website](https://github.com/navinnagarajan2500/alfardan-website)** — single-page marketing site for Al Fardan Electromechanical, a Dubai electromechanical contractor. Hand-written HTML/CSS, no build step.
+- **[clarity](https://github.com/navinnagarajan2500/clarity)** — Next.js site built with v0.
+- **[open-instinct](https://github.com/navinnagarajan2500/open-instinct)** — self-hosted deployment of the open-source OpenInstinct iMessage agent, with browser automation, Vercel, Neon and Kernel.
+
+## Elsewhere
+
+- LinkedIn: [navinn46](https://www.linkedin.com/in/navinn46)
 - Email: [navinnagarajan2500@gmail.com](mailto:navinnagarajan2500@gmail.com)
-- Based in India
+- Education: B.E. Mechanical Engineering, Anna University (2018–2022), CGPA 8.02
